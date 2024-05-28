@@ -5,9 +5,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.1"
+__version__ = "1.0.0"
 REPO_NAME = "mlops-mongodb-connect"
-PKG_NAME= "mongodb_connect"
+PKG_NAME= "mlops-mongodb-connect"
 AUTHOR_USER_NAME = "thimiramanujaya"
 AUTHOR_EMAIL = "manujaya.thimira@gmail.com"
 
